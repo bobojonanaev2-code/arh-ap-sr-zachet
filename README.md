@@ -1,3 +1,2 @@
-# arh-ap-sr-zachet
-24ИПо8482 AnaevBobojon
-[Папка с архитектурой] [Папка с архитектурой]https://github.com/bobojonanaev2-code/arh-ap-sr-zachet/tree/main/arhitektura
+#28ИПо8482 Анаев Бобожон
+[ARHITEKTURA-AP-SR](arhitektura/таблица%20(1).xlsx)
