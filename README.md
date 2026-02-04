@@ -4,11 +4,15 @@
 
 
 
+##[ARHITEKTURA-AP-SR](arhitektura/таблица%20(1).xlsx)
+
+
+
+
+##[PK-SETI](pk-seti/pkseti.md)
 
 
 
 
 
-[ARHITEKTURA-AP-SR](arhitektura/таблица%20(1).xlsx)
-[PK-SETI](pk-seti/pkseti.md)
-[PK-SISTEMA](pk-sistema/leksia.md)
+##[PK-SISTEMA](pk-sistema/leksia.md)
