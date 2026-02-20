@@ -5,3 +5,5 @@
 [LABARATORNAYA2](lab2.md)
 
 [LABARATORNAYA3](lab3.csv)
+
+[LABARATORNAYA4](lab4.md)
