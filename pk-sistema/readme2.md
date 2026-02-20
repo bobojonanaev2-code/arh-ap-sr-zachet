@@ -1,4 +1,4 @@
-([LABARATORNAYA1](labaratornaya1.md))
+[LABARATORNAYA1](labaratornaya1.md))
 
 [LEKSIYA](leksia.md)
 
