@@ -1,0 +1,1 @@
+LABARATORNAYA1([text](labaratornaya1.md))

@@ -4,15 +4,15 @@
 
 
 
-##[ARHITEKTURA-AP-SR](arhitektura/таблица%20(1).xlsx)
+##[ARHITEKTURA-AP-SR](arhitektura/readme3.md)
 
 
 
 
-##[PK-SETI](pk-seti/pkseti.md)
+##[PK-SETI](pk-seti/readme4.md)
 
 
 
 
 
-##[PK-SISTEMA](pk-sistema/leksia.md)
+##[PK-SISTEMA](pk-sistema/readme2.md)
