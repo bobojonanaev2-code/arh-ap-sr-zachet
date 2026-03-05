@@ -4,15 +4,15 @@
 
 
 
-##[ARHITEKTURA-AP-SR](arhitektura/readme3.md)
+[ARHITEKTURA-AP-SR](arhitektura/readme3.md)
 
 
 
 
-##[PK-SETI](pk-seti/readme4.md)
+[PK-SETI](pk-seti/readme4.md)
 
 
 
 
 
-##[PK-SISTEMA](pk-sistema/readme2.md)
+[PK-SISTEMA](pk-sistema/readme2.md)
