@@ -1,18 +1,18 @@
-#28ИПо8482 Анаев Бобожон
+# 28ИПО8482 АНАЕВ БОБОЖОН
 
 
 
 
 
-[ARHITEKTURA-AP-SR](arhitektura/readme3.md)
+[АРХИТЕКТУРА ВЫЧИСЛИТЕЛЬНЫХ СРЕДСТВ ](arhitektura/readme3.md)
 
 
 
 
-[PK-SETI](pk-seti/readme4.md)
+[КОМПЬЮТЕРНЫЕ СЕТИ ](pk-seti/readme4.md)
 
 
 
 
 
-[PK-SISTEMA](pk-sistema/readme2.md)
+[ВНЕДРЕНИЕ И ПОДДЕРЖКА КОМПЬЮТЕРНЫХ СИСТЕМ ](pk-sistema/readme2.md)
