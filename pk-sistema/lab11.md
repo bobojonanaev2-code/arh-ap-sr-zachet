@@ -1,5 +1,5 @@
-[PDF](lab11/lab11.pdf)
-[DOCX](lab11/lab11.docx)
+[PDF](lab11/tz-vvod-skp.docx)
+[DOCX](lab11/tz-vvod-skp.pdf)
 
 # ПРАКТИЧЕСКАЯ РАБОТА №11
 **Техническое задание на ввод в эксплуатацию новой компьютерной системы**
